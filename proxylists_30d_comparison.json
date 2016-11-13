@@ -44,13 +44,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21863,
+		"ips": 21857,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9382,
+		"ips": 9379,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11638,
+		"ips": 11635,
 		"common": 32
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 305895,
+		"ips": 305894,
 		"common": 900
 	},
 	{
@@ -264,10 +264,16 @@
 		"common": 868
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8960,
-		"common": 4
+		"ips": 8704,
+		"common": 3
 	},
 	{
 		"name": "dshield_30d",
@@ -344,8 +350,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 48310,
+		"ips": 48307,
 		"common": 8190
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 662648926,
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
@@ -368,7 +380,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 35374,
+		"ips": 35371,
 		"common": 8219
 	},
 	{
@@ -410,7 +422,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22472,
+		"ips": 22475,
 		"common": 3
 	},
 	{
@@ -572,7 +584,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3344,
+		"ips": 3229,
 		"common": 2
 	},
 	{
@@ -900,21 +912,15 @@
 		"common": 10
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4469,
+		"ips": 4472,
 		"common": 39
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21491,
+		"ips": 21488,
 		"common": 263
 	},
 	{
@@ -981,7 +987,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "sslproxies_1d",
