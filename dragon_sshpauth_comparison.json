@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11837,
+		"ips": 11819,
 		"common": 7
 	},
 	{
@@ -98,25 +98,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69666,
+		"ips": 69672,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20039,
+		"ips": 20047,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 30565,
+		"ips": 30569,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13826,
+		"ips": 13836,
 		"common": 1
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3775,
+		"ips": 3779,
 		"common": 15
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1709,
+		"ips": 1712,
 		"common": 4
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 212753,
+		"ips": 212759,
 		"common": 3
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571668,
+		"ips": 9571660,
 		"common": 114
 	},
 	{
@@ -452,13 +452,19 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3431,
+		"ips": 3398,
 		"common": 1
 	},
 	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2994,
 		"common": 1
 	},
 	{
