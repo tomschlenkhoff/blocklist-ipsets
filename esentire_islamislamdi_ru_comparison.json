@@ -6,6 +6,18 @@
 		"common": 58
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 25965,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 4400,
+		"common": 1
+	},
+	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
@@ -14,13 +26,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 270547,
+		"ips": 270548,
 		"common": 3
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 305861,
+		"ips": 305860,
 		"common": 2
 	},
 	{
@@ -172,6 +184,12 @@
 		"category": "attacks",
 		"ips": 662648934,
 		"common": 205
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36724,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
