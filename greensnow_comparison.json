@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1503,
+		"ips": 1505,
 		"common": 3
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1693,
+		"ips": 1694,
 		"common": 7
 	},
 	{
@@ -500,19 +500,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12116,
+		"ips": 12127,
 		"common": 38
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 212982,
+		"ips": 212974,
 		"common": 98
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47930,
+		"ips": 47935,
 		"common": 8
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133992,
+		"ips": 133993,
 		"common": 351
 	},
 	{
@@ -542,13 +542,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 35032,
+		"ips": 35037,
 		"common": 7
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11793,
+		"ips": 11794,
 		"common": 28
 	},
 	{
@@ -906,16 +906,28 @@
 		"common": 50
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 94,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 862,
+		"ips": 854,
 		"common": 7
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 249,
-		"common": 2
+		"ips": 248,
+		"common": 3
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -1148,7 +1160,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2281,
+		"ips": 2282,
 		"common": 1
 	},
 	{
