@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12082,
+		"ips": 11966,
 		"common": 1
 	},
 	{
@@ -410,14 +410,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47880,
+		"ips": 47879,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662648931,
-		"common": 594
+		"common": 595
 	},
 	{
 		"name": "firehol_level2",
@@ -428,32 +428,32 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134075,
-		"common": 2284
+		"ips": 134076,
+		"common": 2285
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571898,
+		"ips": 9571786,
 		"common": 32
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 35020,
+		"ips": 35019,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11796,
-		"common": 2284
+		"ips": 11797,
+		"common": 2285
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50952850,
-		"common": 322
+		"common": 323
 	},
 	{
 		"name": "fullbogons",
@@ -495,6 +495,12 @@
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 303,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 25574,
 		"common": 1
 	},
 	{
@@ -645,7 +651,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "jigsaw_malware",
@@ -825,7 +831,7 @@
 		"name": "sslbl",
 		"category": "malware",
 		"ips": 88,
-		"common": 87
+		"common": 88
 	},
 	{
 		"name": "stopforumspam",
