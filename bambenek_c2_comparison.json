@@ -6,6 +6,12 @@
 		"common": 17
 	},
 	{
+		"name": "bambenek_matsnu",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_necurs",
 		"category": "malware",
 		"ips": 4,
@@ -27,7 +33,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 113,
-		"common": 112
+		"common": 113
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -81,7 +87,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 58764,
-		"common": 80
+		"common": 82
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -105,7 +111,7 @@
 		"name": "dyndns_ponmocup",
 		"category": "malware",
 		"ips": 233,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "esentire_14072015_com",
@@ -141,24 +147,18 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25281111,
-		"common": 3
-	},
-	{
-		"name": "et_spamhaus",
-		"category": "attacks",
-		"ips": 25275136,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 662648933,
-		"common": 241
+		"ips": 662648937,
+		"common": 244
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 138078,
+		"ips": 135261,
 		"common": 5
 	},
 	{
@@ -171,13 +171,13 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 11731,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50952850,
-		"common": 142
+		"common": 145
 	},
 	{
 		"name": "gofferje_sip",
@@ -195,7 +195,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 21946,
-		"common": 93
+		"common": 92
 	},
 	{
 		"name": "hphosts_exp",
@@ -243,7 +243,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 18263,
-		"common": 84
+		"common": 85
 	},
 	{
 		"name": "hphosts_wrz",
@@ -279,13 +279,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762684865,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "iblocklist_level3",
@@ -304,12 +304,6 @@
 		"category": "reputation",
 		"ips": 4346058,
 		"common": 4
-	},
-	{
-		"name": "iblocklist_spamhaus_drop",
-		"category": "attacks",
-		"ips": 25275392,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -333,7 +327,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "malc0de",
@@ -351,7 +345,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50722952,
-		"common": 61
+		"common": 63
 	},
 	{
 		"name": "ransomware_feed",
@@ -412,12 +406,6 @@
 		"category": "attacks",
 		"ips": 8771,
 		"common": 2
-	},
-	{
-		"name": "spamhaus_drop",
-		"category": "reputation",
-		"ips": 25275392,
-		"common": 1
 	},
 	{
 		"name": "taichung",
