@@ -54,6 +54,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11719,
+		"common": 1
+	},
+	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
@@ -296,8 +302,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571483,
-		"common": 3
+		"ips": 9571555,
+		"common": 4
 	},
 	{
 		"name": "firehol_webclient",
@@ -458,7 +464,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15780,
+		"ips": 15430,
 		"common": 1
 	},
 	{
