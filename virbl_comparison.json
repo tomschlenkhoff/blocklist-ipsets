@@ -2,8 +2,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36705,
-		"common": 12
+		"ips": 36706,
+		"common": 13
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 133991,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 50952850,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -12,16 +24,16 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_level3",
-		"category": "reputation",
-		"ips": 139023007,
-		"common": 1
-	},
-	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3101111,
-		"common": 3
+		"common": 2
+	},
+	{
+		"name": "myip",
+		"category": "abuse",
+		"ips": 2169,
+		"common": 1
 	},
 	{
 		"name": "nixspam",
@@ -33,18 +45,12 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 174940,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1730801,
 		"common": 4
-	},
-	{
-		"name": "sp_anti_infringement",
-		"category": "organizations",
-		"ips": 136184374,
-		"common": 1
 	}
 ]
