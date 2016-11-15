@@ -230,8 +230,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12056,
-		"common": 136
+		"ips": 12030,
+		"common": 135
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -522,16 +522,28 @@
 		"common": 226
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 512
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 8704,
+		"common": 512
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 49664,
-		"common": 792
+		"ips": 48896,
+		"common": 1048
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 22528,
-		"common": 280
+		"ips": 23296,
+		"common": 536
 	},
 	{
 		"name": "dshield_top_1000",
@@ -740,14 +752,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47941,
+		"ips": 47942,
 		"common": 709
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662642549,
-		"common": 501918
+		"common": 502430
 	},
 	{
 		"name": "firehol_level2",
@@ -764,8 +776,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571723,
-		"common": 179714
+		"ips": 9571697,
+		"common": 179713
 	},
 	{
 		"name": "firehol_proxies",
@@ -1454,7 +1466,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1503,
+		"ips": 1502,
 		"common": 33
 	},
 	{
@@ -1748,25 +1760,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1031,
+		"ips": 1033,
 		"common": 26
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1096,
+		"ips": 1101,
 		"common": 27
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2756,
+		"ips": 2761,
 		"common": 54
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1461,
+		"ips": 1466,
 		"common": 32
 	},
 	{
@@ -1802,13 +1814,13 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 162,
+		"ips": 166,
 		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 813,
+		"ips": 814,
 		"common": 8
 	},
 	{
