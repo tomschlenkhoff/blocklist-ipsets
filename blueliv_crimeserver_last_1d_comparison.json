@@ -42,9 +42,21 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9438,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 348,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11967,
+		"ips": 11981,
 		"common": 4
 	},
 	{
@@ -176,7 +188,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 305829,
+		"ips": 305828,
 		"common": 1
 	},
 	{
@@ -200,7 +212,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47838,
+		"ips": 47826,
 		"common": 5
 	},
 	{
@@ -212,13 +224,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129284,
+		"ips": 129737,
 		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571555,
+		"ips": 9571569,
 		"common": 17
 	},
 	{
@@ -328,6 +340,12 @@
 		"category": "malware",
 		"ips": 311,
 		"common": 1
+	},
+	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 6804,
+		"common": 3
 	},
 	{
 		"name": "iblocklist_org_microsoft",
