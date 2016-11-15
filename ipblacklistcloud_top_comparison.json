@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 776,
-		"common": 10
+		"ips": 789,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -74,55 +74,55 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4302,
+		"ips": 4293,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5529,
+		"ips": 5526,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21768,
+		"ips": 21772,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9306,
+		"ips": 9303,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26396,
+		"ips": 26441,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9452,
+		"ips": 9454,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 345,
+		"ips": 346,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 4557,
+		"ips": 4569,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14610,
+		"ips": 14626,
 		"common": 4
 	},
 	{
@@ -150,51 +150,57 @@
 		"common": 48
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 26,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 837,
-		"common": 26
+		"ips": 823,
+		"common": 25
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13457,
+		"ips": 13439,
 		"common": 48
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4477,
+		"ips": 4458,
 		"common": 45
 	},
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2797,
+		"ips": 2790,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6842,
+		"ips": 6862,
 		"common": 25
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69334,
+		"ips": 69339,
 		"common": 41
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19942,
+		"ips": 19939,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 46189,
+		"ips": 46197,
 		"common": 2
 	},
 	{
@@ -206,19 +212,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6080,
+		"ips": 6106,
 		"common": 37
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 30649,
+		"ips": 30650,
 		"common": 55
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13829,
+		"ips": 13834,
 		"common": 41
 	},
 	{
@@ -254,13 +260,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6844,
+		"ips": 6870,
 		"common": 48
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 271528,
+		"ips": 271527,
 		"common": 42
 	},
 	{
@@ -278,7 +284,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 92703,
+		"ips": 92702,
 		"common": 16
 	},
 	{
@@ -302,19 +308,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12231,
+		"ips": 12303,
 		"common": 49
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 212664,
+		"ips": 212671,
 		"common": 71
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47739,
+		"ips": 47825,
 		"common": 54
 	},
 	{
@@ -326,19 +332,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36688,
+		"ips": 36734,
 		"common": 20
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128737,
+		"ips": 128738,
 		"common": 50
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571762,
+		"ips": 9571744,
 		"common": 200
 	},
 	{
@@ -380,7 +386,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2300,
+		"ips": 2298,
 		"common": 3
 	},
 	{
@@ -716,8 +722,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4383,
-		"common": 36
+		"ips": 4434,
+		"common": 38
 	},
 	{
 		"name": "stopforumspam_30d",
