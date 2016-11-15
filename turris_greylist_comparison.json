@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11676,
+		"ips": 11678,
 		"common": 46
 	},
 	{
@@ -596,8 +596,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47756,
-		"common": 25
+		"ips": 47766,
+		"common": 26
 	},
 	{
 		"name": "firehol_level1",
@@ -620,14 +620,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571485,
+		"ips": 9571487,
 		"common": 212
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34929,
-		"common": 14
+		"ips": 34939,
+		"common": 15
 	},
 	{
 		"name": "firehol_webclient",
@@ -1072,6 +1072,30 @@
 		"category": "spam",
 		"ips": 176,
 		"common": 2
+	},
+	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 1164,
+		"common": 1
+	},
+	{
+		"name": "proxylists_1d",
+		"category": "anonymizers",
+		"ips": 2719,
+		"common": 1
+	},
+	{
+		"name": "proxylists_30d",
+		"category": "anonymizers",
+		"ips": 8467,
+		"common": 1
+	},
+	{
+		"name": "proxylists_7d",
+		"category": "anonymizers",
+		"ips": 5002,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
