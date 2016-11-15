@@ -86,14 +86,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12129,
-		"common": 2
+		"ips": 12089,
+		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 212724,
-		"common": 38
+		"ips": 212727,
+		"common": 40
 	},
 	{
 		"name": "firehol_anonymous",
@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571318,
+		"ips": 9571352,
 		"common": 3
 	},
 	{
@@ -232,6 +232,30 @@
 		"category": "spam",
 		"ips": 320,
 		"common": 1
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1188,
+		"common": 2
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 309,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_30d",
