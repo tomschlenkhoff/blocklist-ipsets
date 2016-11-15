@@ -1,5 +1,23 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 26615,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1562,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14781,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 59103,
@@ -14,8 +32,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36901,
-		"common": 36
+		"ips": 36897,
+		"common": 33
 	},
 	{
 		"name": "firehol_webserver",
@@ -27,18 +45,12 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690833,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346613099,
 		"common": 1
 	},
 	{
