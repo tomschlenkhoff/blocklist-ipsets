@@ -24,6 +24,12 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11481,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 59264,
@@ -50,7 +56,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 662635642,
+		"ips": 662635643,
 		"common": 10
 	},
 	{
@@ -62,8 +68,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570953,
-		"common": 1
+		"ips": 9571008,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -200,7 +206,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 137,
+		"ips": 138,
 		"common": 1
 	}
 ]
