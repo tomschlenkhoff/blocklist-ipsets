@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3106,
+		"ips": 3115,
 		"common": 9
 	},
 	{
@@ -80,67 +80,67 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4362,
+		"ips": 4365,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5481,
+		"ips": 5480,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21706,
+		"ips": 21703,
 		"common": 33
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9262,
+		"ips": 9256,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25733,
-		"common": 380
+		"ips": 25805,
+		"common": 383
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9526,
+		"ips": 9535,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1733,
+		"ips": 1739,
 		"common": 28
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 221,
+		"ips": 222,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 4633,
-		"common": 310
+		"ips": 4654,
+		"common": 313
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1137,
+		"ips": 1144,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14330,
+		"ips": 14349,
 		"common": 30
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3943,
+		"ips": 3960,
 		"common": 10
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12540,
+		"ips": 12544,
 		"common": 273
 	},
 	{
@@ -176,20 +176,20 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 831,
-		"common": 20
+		"ips": 830,
+		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 13005,
+		"ips": 13003,
 		"common": 297
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4435,
-		"common": 111
+		"ips": 4432,
+		"common": 110
 	},
 	{
 		"name": "botvrij_dst",
@@ -543,7 +543,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 13083,
-		"common": 236
+		"common": 235
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -554,8 +554,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47709,
-		"common": 54
+		"ips": 47706,
+		"common": 53
 	},
 	{
 		"name": "firehol_level1",
@@ -566,8 +566,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36815,
-		"common": 385
+		"ips": 36922,
+		"common": 389
 	},
 	{
 		"name": "firehol_level3",
@@ -578,14 +578,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572061,
+		"ips": 9572063,
 		"common": 924
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34766,
-		"common": 48
+		"ips": 34763,
+		"common": 47
 	},
 	{
 		"name": "firehol_webclient",
@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 50953509,
+		"ips": 50953381,
 		"common": 5929
 	},
 	{
@@ -620,8 +620,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2972,
-		"common": 26
+		"ips": 3015,
+		"common": 27
 	},
 	{
 		"name": "haley_ssh",
@@ -650,7 +650,7 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 18314,
+		"ips": 18196,
 		"common": 1
 	},
 	{
@@ -920,8 +920,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36751,
-		"common": 592
+		"ips": 36770,
+		"common": 613
 	},
 	{
 		"name": "nullsecure",
@@ -1176,21 +1176,27 @@
 		"common": 16
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4433,
+		"ips": 4427,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21031,
-		"common": 17
+		"ips": 21028,
+		"common": 16
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9410,
+		"ips": 9413,
 		"common": 2
 	},
 	{
