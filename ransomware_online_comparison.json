@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25812,
+		"ips": 25708,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14334,
+		"ips": 14283,
 		"common": 3
 	},
 	{
@@ -219,30 +219,30 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662616965,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36774,
+		"ips": 36673,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 130111,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9572855,
-		"common": 90
+		"common": 89
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 12088,
+		"ips": 12087,
 		"common": 1504
 	},
 	{
@@ -387,7 +387,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 115
+		"common": 116
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -405,7 +405,7 @@
 		"name": "iblocklist_spyware",
 		"category": "reputation",
 		"ips": 339021,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
@@ -416,8 +416,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3211,
-		"common": 4
+		"ips": 3187,
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -519,7 +519,13 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11456,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "ransomware_torrentlocker_ps",
+		"category": "malware",
+		"ips": 126,
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -550,6 +556,12 @@
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 18
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2298,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_180d",
