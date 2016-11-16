@@ -1,5 +1,11 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 47930,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 250,
@@ -15,19 +21,13 @@
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 18,
-		"common": 1
-	},
-	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 13203,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 59264,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -42,22 +42,34 @@
 		"common": 1
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 25281111,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662616958,
 		"common": 8
 	},
 	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 129802,
+		"common": 1
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9572719,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50953381,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_ats",
@@ -69,13 +81,13 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 22029,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 25970,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_grm",
@@ -90,10 +102,16 @@
 		"common": 2
 	},
 	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1753,
+		"common": 1
+	},
+	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 18196,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_wrz",
@@ -105,7 +123,7 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -138,9 +156,39 @@
 		"common": 1
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 2388,
+		"common": 1
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 2388,
+		"common": 1
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	},
+	{
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12873,
+		"common": 1
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 154,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 138,
 		"common": 1
 	}
 ]
