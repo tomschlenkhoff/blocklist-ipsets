@@ -212,13 +212,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3526,
+		"ips": 3525,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1510,
+		"ips": 1513,
 		"common": 1
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129830,
+		"ips": 129836,
 		"common": 8
 	},
 	{
@@ -728,7 +728,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4061,
+		"ips": 4062,
 		"common": 6
 	},
 	{
@@ -786,10 +786,16 @@
 		"common": 6
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 4
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4428,
-		"common": 127
+		"ips": 4443,
+		"common": 124
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -800,7 +806,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9427,
+		"ips": 9415,
 		"common": 177
 	},
 	{
