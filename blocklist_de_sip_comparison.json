@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25712,
-		"common": 84
+		"ips": 25823,
+		"common": 86
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13207,
+		"ips": 13148,
 		"common": 1
 	},
 	{
@@ -105,13 +105,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 48896,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 21760,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "dshield_top_1000",
@@ -120,9 +120,21 @@
 		"common": 2
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 25281111,
+		"common": 1
+	},
+	{
 		"name": "et_botcc",
 		"category": "reputation",
 		"ips": 535,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
 		"common": 1
 	},
 	{
@@ -134,32 +146,32 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36345,
-		"common": 84
+		"ips": 36453,
+		"common": 86
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 130106,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572697,
+		"ips": 9572643,
 		"common": 12
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50953381,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095335,
-		"common": 28
+		"common": 30
 	},
 	{
 		"name": "greensnow",
@@ -255,7 +267,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50722952,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "sblam",
@@ -339,6 +351,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 20911,
-		"common": 50
+		"common": 52
 	}
 ]
