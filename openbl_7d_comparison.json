@@ -80,31 +80,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25730,
+		"ips": 25703,
 		"common": 387
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9589,
-		"common": 4
+		"ips": 9597,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1119,
+		"ips": 1114,
 		"common": 40
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14258,
+		"ips": 14238,
 		"common": 54
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 136,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3879,
+		"ips": 3873,
 		"common": 329
 	},
 	{
@@ -272,7 +278,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2451,
+		"ips": 2450,
 		"common": 1
 	},
 	{
@@ -362,8 +368,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36464,
-		"common": 466
+		"ips": 36435,
+		"common": 465
 	},
 	{
 		"name": "firehol_level3",
