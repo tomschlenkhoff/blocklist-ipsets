@@ -18,22 +18,22 @@
 		"common": 2
 	},
 	{
-		"name": "dronebl_worms_bots",
-		"category": "malware",
-		"ips": 92701,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37679,
+		"ips": 37680,
 		"common": 35
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50953379,
-		"common": 3
+		"common": 2
+	},
+	{
+		"name": "graphiclineweb",
+		"category": "abuse",
+		"ips": 330527,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -45,13 +45,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762623607,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 870983,
+		"common": 1
 	},
 	{
 		"name": "lashback_ubl",
@@ -69,7 +75,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50722952,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -90,15 +96,9 @@
 		"common": 6
 	},
 	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 6203768,
-		"common": 1
-	},
-	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4
+		"common": 3
 	}
 ]
