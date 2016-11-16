@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 47900,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 253,
-		"common": 16
+		"common": 14
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -45,7 +45,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 59264,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -69,18 +69,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662635646,
-		"common": 16
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 128416,
-		"common": 1
-	},
-	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9570737,
 		"common": 1
 	},
 	{
@@ -93,7 +87,7 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15711,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
@@ -150,12 +144,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_spyware",
-		"category": "reputation",
-		"ips": 339021,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12189,
@@ -178,6 +166,12 @@
 		"category": "reputation",
 		"ips": 50722952,
 		"common": 3
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 4062,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
