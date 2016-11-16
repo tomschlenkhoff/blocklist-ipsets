@@ -62,20 +62,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25659,
-		"common": 9
+		"ips": 25730,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9477,
+		"ips": 9484,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
 		"ips": 128,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 10902,
+		"common": 3
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -86,19 +92,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 9216,
+		"ips": 10752,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 48640,
+		"ips": 49152,
 		"common": 21
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 22016,
+		"ips": 23040,
 		"common": 18
 	},
 	{
@@ -134,14 +140,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37101,
-		"common": 10
+		"ips": 38700,
+		"common": 11
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128557,
-		"common": 23
+		"ips": 129296,
+		"common": 24
 	},
 	{
 		"name": "firehol_webserver",

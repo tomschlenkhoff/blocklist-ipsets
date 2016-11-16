@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 251,
-		"common": 116
+		"common": 115
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 56,
+		"ips": 54,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11404,
+		"ips": 11500,
 		"common": 1
 	},
 	{
@@ -57,13 +57,13 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "cta_cryptowall",
@@ -81,19 +81,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 662635645,
-		"common": 116
+		"common": 115
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128557,
-		"common": 2
+		"ips": 129296,
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570937,
-		"common": 24
+		"ips": 9571028,
+		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
@@ -105,7 +105,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50953496,
-		"common": 70
+		"common": 69
 	},
 	{
 		"name": "gofferje_sip",
@@ -123,7 +123,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 21961,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "hphosts_exp",
@@ -141,7 +141,7 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1177,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_pha",
@@ -153,7 +153,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 18314,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "hphosts_wrz",
@@ -183,13 +183,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -219,7 +219,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "malc0de",
@@ -237,7 +237,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50722952,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "ransomware_feed",
@@ -258,9 +258,9 @@
 		"common": 1
 	},
 	{
-		"name": "snort_ipfilter",
-		"category": "attacks",
-		"ips": 2392,
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375590364,
 		"common": 1
 	},
 	{
@@ -280,12 +280,6 @@
 		"category": "attacks",
 		"ips": 8771,
 		"common": 2
-	},
-	{
-		"name": "talosintel_ipfilter",
-		"category": "attacks",
-		"ips": 2392,
-		"common": 1
 	},
 	{
 		"name": "threatcrowd",
