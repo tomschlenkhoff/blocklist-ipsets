@@ -116,7 +116,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 15,
+		"ips": 21,
 		"common": 1
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1478,
-		"common": 605
+		"ips": 1470,
+		"common": 601
 	},
 	{
 		"name": "dm_tor",
@@ -842,7 +842,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47618,
+		"ips": 47627,
 		"common": 1744
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34734,
+		"ips": 34743,
 		"common": 875
 	},
 	{
@@ -1704,21 +1704,27 @@
 		"common": 2388
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4583,
+		"ips": 4609,
 		"common": 111
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21041,
+		"ips": 21050,
 		"common": 249
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9391,
+		"ips": 9405,
 		"common": 194
 	},
 	{
