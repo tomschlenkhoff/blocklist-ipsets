@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13919,
+		"ips": 14009,
 		"common": 325
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573480,
+		"ips": 9573549,
 		"common": 2116
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 12096,
+		"ips": 12088,
 		"common": 79
 	},
 	{
@@ -602,8 +602,8 @@
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
-		"ips": 9861,
-		"common": 46
+		"ips": 10437,
+		"common": 42
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -1076,13 +1076,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4063,
+		"ips": 4062,
 		"common": 6
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1453,
+		"ips": 1445,
 		"common": 1
 	},
 	{
@@ -1146,10 +1146,16 @@
 		"common": 33
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4591,
-		"common": 14
+		"ips": 4574,
+		"common": 15
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1160,7 +1166,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9397,
+		"ips": 9399,
 		"common": 24
 	},
 	{
@@ -1178,7 +1184,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 106121,
+		"ips": 105466,
 		"common": 96
 	},
 	{
@@ -1190,13 +1196,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1744128,
+		"ips": 1744243,
 		"common": 204
 	},
 	{
 		"name": "sorbs_smtp",
 		"category": "spam",
-		"ips": 1650,
+		"ips": 1651,
 		"common": 1
 	},
 	{
