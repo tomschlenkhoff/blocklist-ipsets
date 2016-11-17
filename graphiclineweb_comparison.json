@@ -80,19 +80,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25831,
-		"common": 9
+		"ips": 25859,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9766,
+		"ips": 9777,
 		"common": 8
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 4954,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1120,
+		"ips": 1122,
 		"common": 1
 	},
 	{
@@ -104,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14305,
+		"ips": 14334,
 		"common": 10
 	},
 	{
@@ -410,8 +416,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34836,
-		"common": 12
+		"ips": 34865,
+		"common": 13
 	},
 	{
 		"name": "firehol_level3",
@@ -422,7 +428,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573833,
+		"ips": 9573862,
 		"common": 125
 	},
 	{
@@ -734,7 +740,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36489,
+		"ips": 36410,
 		"common": 3
 	},
 	{
@@ -782,7 +788,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4045,
+		"ips": 4044,
 		"common": 1
 	},
 	{
@@ -824,14 +830,14 @@
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
-		"ips": 375585444,
+		"ips": 375581077,
 		"common": 144
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 101782,
-		"common": 7
+		"ips": 98059,
+		"common": 8
 	},
 	{
 		"name": "sorbs_noserver",
@@ -842,13 +848,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1742570,
-		"common": 71
+		"ips": 1742304,
+		"common": 72
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6203757,
+		"ips": 6203755,
 		"common": 139
 	},
 	{
