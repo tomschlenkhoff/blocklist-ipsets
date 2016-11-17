@@ -158,13 +158,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3440,
+		"ips": 3435,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1470,
+		"ips": 1472,
 		"common": 1
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095337,
+		"ips": 1095338,
 		"common": 7
 	},
 	{
@@ -530,13 +530,19 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3130,
+		"ips": 3428,
 		"common": 7
 	},
 	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
+		"common": 1
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 182,
 		"common": 1
 	},
 	{
