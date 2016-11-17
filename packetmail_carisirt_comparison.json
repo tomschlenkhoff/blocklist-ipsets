@@ -86,7 +86,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 614,
+		"ips": 194,
 		"common": 1
 	},
 	{
@@ -104,25 +104,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4337,
+		"ips": 4349,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5470,
+		"ips": 5476,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21614,
+		"ips": 21617,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9217,
+		"ips": 9219,
 		"common": 1
 	},
 	{
@@ -230,8 +230,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3404,
-		"common": 3
+		"ips": 3410,
+		"common": 4
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 1450,
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
