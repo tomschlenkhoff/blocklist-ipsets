@@ -116,13 +116,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25716,
-		"common": 9625
+		"ips": 25692,
+		"common": 9624
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1794,
+		"ips": 1798,
 		"common": 23
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14213,
+		"ips": 14194,
 		"common": 8500
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 7597,
+		"ips": 7653,
 		"common": 24
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47693,
+		"ips": 47700,
 		"common": 2
 	},
 	{
@@ -495,7 +495,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 37064,
-		"common": 9625
+		"common": 9619
 	},
 	{
 		"name": "firehol_level3",
@@ -506,19 +506,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573382,
+		"ips": 9573434,
 		"common": 170
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34742,
+		"ips": 34749,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 12068,
+		"ips": 12124,
 		"common": 24
 	},
 	{
@@ -651,7 +651,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 2162
+		"common": 2161
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -669,7 +669,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -723,7 +723,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "lashback_ubl",
@@ -795,7 +795,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3130,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -858,9 +858,21 @@
 		"common": 1
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 1347,
+		"common": 1
+	},
+	{
+		"name": "proxylists_1d",
+		"category": "anonymizers",
+		"ips": 2920,
+		"common": 1
+	},
+	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8481,
+		"ips": 8484,
 		"common": 1
 	},
 	{
@@ -969,7 +981,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 125
+		"common": 123
 	},
 	{
 		"name": "sp_atma",
