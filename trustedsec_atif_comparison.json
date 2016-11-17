@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14219,
+		"ips": 14186,
 		"common": 4
 	},
 	{
@@ -136,12 +136,6 @@
 		"category": "attacks",
 		"ips": 59461,
 		"common": 4
-	},
-	{
-		"name": "bm_tor",
-		"category": "anonymizers",
-		"ips": 6886,
-		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
@@ -380,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47610,
+		"ips": 47616,
 		"common": 2
 	},
 	{
@@ -404,7 +398,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573781,
+		"ips": 9573749,
 		"common": 87
 	},
 	{
@@ -610,6 +604,12 @@
 		"category": "abuse",
 		"ips": 2408,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35928,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
