@@ -36,10 +36,16 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 257,
-		"common": 257
+		"ips": 252,
+		"common": 252
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -69,7 +75,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 113,
-		"common": 111
+		"common": 113
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -297,7 +303,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 59461,
-		"common": 176
+		"common": 173
 	},
 	{
 		"name": "bm_tor",
@@ -375,13 +381,13 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "cleantalk",
@@ -471,7 +477,7 @@
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "cybercrime",
@@ -794,7 +800,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47646,
+		"ips": 47645,
 		"common": 14
 	},
 	{
@@ -807,31 +813,31 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129367,
-		"common": 6721
+		"common": 6719
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9573731,
-		"common": 6142171
+		"common": 6142170
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34683,
+		"ips": 34682,
 		"common": 4
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11932,
+		"ips": 11919,
 		"common": 635
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50953381,
-		"common": 22759
+		"common": 22754
 	},
 	{
 		"name": "fullbogons",
@@ -873,37 +879,37 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15711,
-		"common": 160
+		"common": 157
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 22029,
-		"common": 190
+		"common": 186
 	},
 	{
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 303,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 25970,
-		"common": 335
+		"common": 331
 	},
 	{
 		"name": "hphosts_grm",
 		"category": "spam",
 		"ips": 309,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "hphosts_hfs",
 		"category": "abuse",
 		"ips": 268,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "hphosts_hjk",
@@ -915,7 +921,7 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1177,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "hphosts_pha",
@@ -927,7 +933,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 18196,
-		"common": 147
+		"common": 141
 	},
 	{
 		"name": "hphosts_wrz",
@@ -969,7 +975,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 593952622
+		"common": 593952621
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1095,7 +1101,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 13453781
+		"common": 13453780
 	},
 	{
 		"name": "iblocklist_level3",
@@ -1191,13 +1197,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 472
+		"common": 471
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1540
+		"common": 1538
 	},
 	{
 		"name": "lashback_ubl",
@@ -1431,13 +1437,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50722952,
-		"common": 19504
+		"common": 19501
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4060,
-		"common": 239
+		"ips": 4057,
+		"common": 238
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1448,7 +1454,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1289,
+		"ips": 1276,
 		"common": 8
 	},
 	{
@@ -1497,12 +1503,12 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 2388,
-		"common": 724
+		"common": 722
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21025,
+		"ips": 21024,
 		"common": 1
 	},
 	{
@@ -1671,13 +1677,13 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 2376,
-		"common": 726
+		"common": 724
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 292
+		"common": 289
 	},
 	{
 		"name": "tor_exits",
