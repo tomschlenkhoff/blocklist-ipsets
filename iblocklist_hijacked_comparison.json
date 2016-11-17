@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 3927,
+		"ips": 3596,
 		"common": 10
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14469,
+		"ips": 14486,
 		"common": 34
 	},
 	{
@@ -162,22 +162,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 752,
-		"common": 12
+		"ips": 764,
+		"common": 13
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 12976,
-		"common": 109
+		"common": 110
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4465,
-		"common": 40
+		"ips": 4474,
+		"common": 41
 	},
 	{
 		"name": "bruteforceblocker",
@@ -224,61 +230,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2819,
-		"common": 20
+		"ips": 2817,
+		"common": 22
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7525,
+		"ips": 7526,
 		"common": 84
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69402,
+		"ips": 69340,
 		"common": 248
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 19926,
+		"ips": 19908,
 		"common": 132
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 819,
+		"ips": 817,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2347,
+		"ips": 2350,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 46123,
+		"ips": 46057,
 		"common": 45
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 9050,
+		"ips": 9036,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 17
+		"common": 19
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6312,
+		"ips": 6308,
 		"common": 100
 	},
 	{
@@ -290,7 +296,7 @@
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14158,
+		"ips": 14150,
 		"common": 153
 	},
 	{
@@ -308,13 +314,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3416,
+		"ips": 3410,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1461,
+		"ips": 1452,
 		"common": 2
 	},
 	{
@@ -452,19 +458,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12901,
-		"common": 144
+		"ips": 12916,
+		"common": 143
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 213188,
+		"ips": 213148,
 		"common": 1143
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47593,
+		"ips": 47595,
 		"common": 8
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37112,
+		"ips": 37200,
 		"common": 48
 	},
 	{
@@ -488,19 +494,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574014,
+		"ips": 9574030,
 		"common": 9145088
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34653,
+		"ips": 34656,
 		"common": 4
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11736,
+		"ips": 11735,
 		"common": 9
 	},
 	{
@@ -536,7 +542,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3734,
+		"ips": 3820,
 		"common": 2
 	},
 	{
@@ -902,13 +908,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21011,
+		"ips": 21014,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9391,
+		"ips": 9377,
 		"common": 1
 	},
 	{
@@ -986,8 +992,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4282,
-		"common": 28
+		"ips": 4292,
+		"common": 27
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1046,7 +1052,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1096,
+		"ips": 1098,
 		"common": 1
 	},
 	{
@@ -1058,7 +1064,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1451,
+		"ips": 1455,
 		"common": 1
 	},
 	{
