@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12013,
+		"ips": 11946,
 		"common": 2
 	},
 	{
@@ -153,7 +153,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 272789,
-		"common": 256
+		"common": 257
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -212,8 +212,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47518,
-		"common": 777
+		"ips": 47519,
+		"common": 778
 	},
 	{
 		"name": "firehol_level2",
@@ -230,26 +230,32 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571608,
+		"ips": 9571543,
 		"common": 155
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34676,
-		"common": 777
+		"ips": 34677,
+		"common": 778
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50959750,
-		"common": 164
+		"common": 165
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095340,
 		"common": 25
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 22038,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ads",
@@ -495,7 +501,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50729096,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -692,19 +698,19 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 66,
-		"common": 66
+		"ips": 63,
+		"common": 63
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 167,
-		"common": 167
+		"ips": 169,
+		"common": 169
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 340,
-		"common": 340
+		"ips": 341,
+		"common": 341
 	}
 ]

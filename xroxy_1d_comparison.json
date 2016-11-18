@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12013,
+		"ips": 11946,
 		"common": 1
 	},
 	{
@@ -135,7 +135,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 272789,
-		"common": 62
+		"common": 64
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47518,
-		"common": 167
+		"ips": 47519,
+		"common": 169
 	},
 	{
 		"name": "firehol_level2",
@@ -188,26 +188,32 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571608,
+		"ips": 9571543,
 		"common": 44
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34676,
-		"common": 167
+		"ips": 34677,
+		"common": 169
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50959750,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095340,
 		"common": 4
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 22038,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -291,19 +297,19 @@
 		"name": "proxylists_1d",
 		"category": "anonymizers",
 		"ips": 3070,
-		"common": 167
+		"common": 168
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 8604,
-		"common": 167
+		"common": 168
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
 		"ips": 5301,
-		"common": 167
+		"common": 168
 	},
 	{
 		"name": "proxyrss",
@@ -321,13 +327,13 @@
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
 		"ips": 8279,
-		"common": 156
+		"common": 157
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
 		"ips": 5063,
-		"common": 156
+		"common": 157
 	},
 	{
 		"name": "proxyspy",
@@ -345,7 +351,7 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6049,
-		"common": 99
+		"common": 100
 	},
 	{
 		"name": "proxyspy_7d",
@@ -381,7 +387,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50729096,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -560,19 +566,19 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 66,
-		"common": 66
+		"ips": 63,
+		"common": 63
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 777,
-		"common": 167
+		"ips": 778,
+		"common": 169
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 340,
-		"common": 167
+		"ips": 341,
+		"common": 169
 	}
 ]
