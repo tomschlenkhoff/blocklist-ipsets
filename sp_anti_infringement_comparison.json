@@ -236,7 +236,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12225,
+		"ips": 12230,
 		"common": 192
 	},
 	{
@@ -282,22 +282,28 @@
 		"common": 43
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 42,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 770,
-		"common": 24
+		"ips": 789,
+		"common": 25
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 12934,
-		"common": 523
+		"ips": 12939,
+		"common": 524
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4530,
-		"common": 136
+		"ips": 4541,
+		"common": 135
 	},
 	{
 		"name": "botvrij_dst",
@@ -356,74 +362,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3046,
+		"ips": 3044,
 		"common": 200
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7416,
-		"common": 508
+		"ips": 7442,
+		"common": 510
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 69223,
-		"common": 8626
+		"ips": 69170,
+		"common": 8619
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20080,
-		"common": 2031
+		"ips": 20106,
+		"common": 2035
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1047,
-		"common": 133
+		"ips": 1044,
+		"common": 135
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2209,
-		"common": 317
+		"ips": 2214,
+		"common": 316
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 45900,
-		"common": 6089
+		"ips": 45841,
+		"common": 6082
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 9185,
-		"common": 1359
+		"ips": 9199,
+		"common": 1362
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 67
+		"common": 65
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6378,
-		"common": 225
+		"ips": 6405,
+		"common": 228
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 31144,
+		"ips": 31150,
 		"common": 2901
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14231,
-		"common": 834
+		"ips": 14247,
+		"common": 835
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -752,19 +758,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12905,
-		"common": 711
+		"ips": 12956,
+		"common": 714
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 212668,
-		"common": 17021
+		"ips": 212642,
+		"common": 17015
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47626,
+		"ips": 47625,
 		"common": 4060
 	},
 	{
@@ -776,8 +782,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39097,
-		"common": 2488
+		"ips": 39004,
+		"common": 2468
 	},
 	{
 		"name": "firehol_level3",
@@ -788,19 +794,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571796,
-		"common": 28146
+		"ips": 9571806,
+		"common": 28147
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34707,
+		"ips": 34706,
 		"common": 4015
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11737,
+		"ips": 11733,
 		"common": 431
 	},
 	{
@@ -836,8 +842,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3595,
-		"common": 593
+		"ips": 3505,
+		"common": 571
 	},
 	{
 		"name": "haley_ssh",
@@ -1520,7 +1526,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1005,
+		"ips": 1001,
 		"common": 13
 	},
 	{
@@ -1602,28 +1608,22 @@
 		"common": 46
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 4
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4815,
+		"ips": 4828,
 		"common": 85
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20964,
+		"ips": 20963,
 		"common": 1418
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9404,
-		"common": 296
+		"ips": 9389,
+		"common": 294
 	},
 	{
 		"name": "sorbs_anonymizers",
