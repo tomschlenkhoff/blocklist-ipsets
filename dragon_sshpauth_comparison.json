@@ -152,13 +152,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3339,
+		"ips": 3338,
 		"common": 14
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1418,
+		"ips": 1417,
 		"common": 4
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 11730,
+		"ips": 11726,
 		"common": 1
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3283,
+		"ips": 3284,
 		"common": 1
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3070,
+		"ips": 2519,
 		"common": 1
 	},
 	{
@@ -522,6 +522,12 @@
 		"common": 24
 	},
 	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 98648,
+		"common": 1
+	},
+	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22981734,
@@ -530,8 +536,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1742383,
-		"common": 6
+		"ips": 1741960,
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
