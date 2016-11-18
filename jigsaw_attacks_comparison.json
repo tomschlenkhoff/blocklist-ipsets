@@ -116,8 +116,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 24,
-		"common": 8
+		"ips": 20,
+		"common": 7
 	},
 	{
 		"name": "bambenek_volatile",
@@ -206,25 +206,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4326,
-		"common": 31
+		"ips": 4332,
+		"common": 30
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5463,
+		"ips": 5461,
 		"common": 34
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 21521,
+		"ips": 21519,
 		"common": 48
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9161,
+		"ips": 9159,
 		"common": 34
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11593,
+		"ips": 11681,
 		"common": 81
 	},
 	{
@@ -524,13 +524,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 3342,
+		"ips": 3335,
 		"common": 33
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 1408,
+		"ips": 1407,
 		"common": 11
 	},
 	{
@@ -800,7 +800,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 47599,
+		"ips": 47592,
 		"common": 1580
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38620,
+		"ips": 38618,
 		"common": 271
 	},
 	{
@@ -824,13 +824,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571213,
+		"ips": 9571301,
 		"common": 1418
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34680,
+		"ips": 34673,
 		"common": 103
 	},
 	{
@@ -1340,8 +1340,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3252,
-		"common": 31
+		"ips": 3211,
+		"common": 35
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1358,14 +1358,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 210,
+		"ips": 220,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3193,
-		"common": 56
+		"ips": 3176,
+		"common": 58
 	},
 	{
 		"name": "palevo",
@@ -1590,21 +1590,27 @@
 		"common": 373
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 4755,
+		"ips": 4767,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 20906,
+		"ips": 20899,
 		"common": 12
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 9396,
+		"ips": 9397,
 		"common": 9
 	},
 	{
@@ -1772,19 +1778,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1097,
+		"ips": 1098,
 		"common": 238
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2735,
+		"ips": 2736,
 		"common": 265
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1442,
+		"ips": 1443,
 		"common": 246
 	},
 	{
@@ -1820,7 +1826,7 @@
 	{
 		"name": "yoyo_adservers",
 		"category": "organizations",
-		"ips": 12873,
+		"ips": 12870,
 		"common": 23
 	},
 	{
