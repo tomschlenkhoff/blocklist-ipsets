@@ -1,9 +1,69 @@
 [
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11654,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 7493,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 69199,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 20155,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 6406,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 31211,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 14350,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 13070,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 212826,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38622,
-		"common": 15
+		"ips": 38596,
+		"common": 17
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9571263,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -15,6 +75,12 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3105189,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35987,
 		"common": 1
 	},
 	{
