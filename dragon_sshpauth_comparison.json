@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 4889,
+		"ips": 4883,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3560,
+		"ips": 3553,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 148,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12240,
+		"ips": 12189,
 		"common": 6
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571817,
+		"ips": 9571766,
 		"common": 114
 	},
 	{
@@ -316,6 +316,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 18
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 11174,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
